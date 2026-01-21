@@ -74,9 +74,6 @@ I care about clean architecture, maintainable code and products that actually ge
 ## 🔗 Connect with me
 
 <div align="left">
-  <a href="https://www.instagram.com/lucasromanh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/lucasromanh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
